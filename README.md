@@ -44,6 +44,8 @@ Or create manually.
 
 2. Install dependencies:
 pip install -r requirements.txt
+
+
 3. Add your Gemini API Key:
 Create a file named .env and paste your key:
 
@@ -52,6 +54,7 @@ You can get your Gemini API Key from: https://makersuite.google.com/app
 
 4. Run the application:
 streamlit run app.py
+
 It will open in your browser at:
 http://localhost:8501
 ```
@@ -80,10 +83,7 @@ Feel free to open issues, suggest features, or submit PRs. This project is made 
 
 This project is licensed for academic and learning use. For commercial usage, please seek permission.
 
-## ‍💻 Developed By
 
-Ghafoor Khan
-[Bytewise Fellow | NEOC-NDMA Intern | HackClub ML Lead | Computer Engineering, NUTECH]
 
 “ScholarMind empowers thinkers to write smarter, faster, and better — with the help of AI.”
 
